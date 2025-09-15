@@ -205,4 +205,4 @@ Good/Poor + Confidence → UI cards, message, Lottie animation
 
 ---
 
-_For educational/demo purposes. Verify dataset licensing before redistribution._
+
